@@ -1,4 +1,5 @@
 
+![](Resources/img3.png)
 # UFOs
 UFO Sightings with JavaScript
 
