@@ -9,3 +9,7 @@ The request from a client was to display a table organizing UFO data stored as a
 ## Results
 When a user first views the webpage, all information in the table is displayed. The user can then filter down the table results using the five categories to filter. As one filter is entered, the data in the table is reduced to contain those items that match the input criteria. The table can be further refined by adding in additional filters.
 
+## Summary
+
+One drawback from this code is that values must be entered in as they appear in the table(capitalization). Entering "US" will yield no results. The code can be improved in multiple ways for example Accepting upper- or lower-case values. by the way the filter can retrieve data by multiple criteria in the website. 
+
