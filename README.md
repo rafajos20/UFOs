@@ -24,6 +24,9 @@ When a user first views the webpage, all information in the table is displayed. 
 * 3.The filter don’t follow a specific order criteria, we can pick up any row, type something and returns matches. to continue reduce the matches we typed in “triangle” for shape.
 ![](Resources/img7.png)
 
+* 4.The final look typing all the parameters. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the UFO Sightings at the top left of the website.
+![](Resources/img8.png)
+
 
 ## Summary
 
