@@ -15,6 +15,11 @@ When a user first views the webpage, all information in the table is displayed. 
 ### How the filters appear when first landing on the page:
 ![](Resources/img2.png)
 
+* 1.To start to use the filter we need to type in the placeholder elements the suggested text. By typed the 1/1/2010 we retrieved multiple match rows with the date we typed. 
+
+![](Resources/img4.png)
+
+
 
 ## Summary
 
