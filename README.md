@@ -18,7 +18,8 @@ When a user first views the webpage, all information in the table is displayed. 
 * 1.To start to use the filter we need to type in the placeholder elements the suggested text. By typed the 1/1/2010 we retrieved multiple match rows with the date we typed. 
 
 ![](Resources/img5.png)
-
+* 2.To keep going filter insert text in any of rows below, in this case we typed for city "el cajon" and make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter.
+![](Resources/img4.png)
 
 
 ## Summary
