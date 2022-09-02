@@ -12,6 +12,9 @@ When a user first views the webpage, all information in the table is displayed. 
 ### Welcome to UFO Sightings!
 ![](Resources/img1.png)
 
+### How the filters appear when first landing on the page:
+![](Resources/img2.png)
+
 
 ## Summary
 
